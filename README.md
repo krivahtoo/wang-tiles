@@ -16,4 +16,4 @@ Install rust and run
 ```console
 $ cargo run
 ```
-
+It generates a [ppm](https://en.wikipedia.org/wiki/Netpbm) image file which can be opened with [feh](https://feh.finalrewind.org/) or any other image viewer that supports ppm
