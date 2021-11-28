@@ -6,6 +6,9 @@ See
 - [http://www.cr31.co.uk/stagecast/wang/intro.html](http://www.cr31.co.uk/stagecast/wang/intro.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Wang_tile)
 
+## Output image
+![output](./output.png)
+
 ## Quick Start
 
 Install rust and run
